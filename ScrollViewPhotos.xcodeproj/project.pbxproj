@@ -7,21 +7,19 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		DD2F8E05218B19FA00F46D27 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DD2F8E04218B19FA00F46D27 /* Assets.xcassets */; };
+		DD221C622191979A0010BBE8 /* Main123.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DD221C612191979A0010BBE8 /* Main123.storyboard */; };
 		DD2F8E08218B19FA00F46D27 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DD2F8E06218B19FA00F46D27 /* LaunchScreen.storyboard */; };
 		DD4E85A2219188270037340E /* AppDelegate 下午3.41.20 下午3.41.20 下午3.41.20 下午3.41.20 下午3.41.20.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD4E85A1219188270037340E /* AppDelegate 下午3.41.20 下午3.41.20 下午3.41.20 下午3.41.20 下午3.41.20.swift */; };
 		DD4E85A4219189940037340E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD4E85A3219189940037340E /* ViewController.swift */; };
-		DD4E85A82191931D0037340E /* Main 下午3.41.18 下午3.41.18.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DD4E85A72191931D0037340E /* Main 下午3.41.18 下午3.41.18.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		DD221C612191979A0010BBE8 /* Main123.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main123.storyboard; path = ../../../Desktop/recovered/Main123.storyboard; sourceTree = "<group>"; };
 		DD2F8DFA218B19F800F46D27 /* ScrollViewPhotos.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ScrollViewPhotos.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		DD2F8E04218B19FA00F46D27 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DD2F8E07218B19FA00F46D27 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DD2F8E09218B19FA00F46D27 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DD4E85A1219188270037340E /* AppDelegate 下午3.41.20 下午3.41.20 下午3.41.20 下午3.41.20 下午3.41.20.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "AppDelegate 下午3.41.20 下午3.41.20 下午3.41.20 下午3.41.20 下午3.41.20.swift"; path = "../../../Desktop/recovered/AppDelegate 下午3.41.20 下午3.41.20 下午3.41.20 下午3.41.20 下午3.41.20.swift"; sourceTree = "<group>"; };
 		DD4E85A3219189940037340E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		DD4E85A72191931D0037340E /* Main 下午3.41.18 下午3.41.18.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = "Main 下午3.41.18 下午3.41.18.storyboard"; path = "../../../Desktop/recovered/Main 下午3.41.18 下午3.41.18.storyboard"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,8 +54,7 @@
 			children = (
 				DD4E85A1219188270037340E /* AppDelegate 下午3.41.20 下午3.41.20 下午3.41.20 下午3.41.20 下午3.41.20.swift */,
 				DD4E85A3219189940037340E /* ViewController.swift */,
-				DD4E85A72191931D0037340E /* Main 下午3.41.18 下午3.41.18.storyboard */,
-				DD2F8E04218B19FA00F46D27 /* Assets.xcassets */,
+				DD221C612191979A0010BBE8 /* Main123.storyboard */,
 				DD2F8E06218B19FA00F46D27 /* LaunchScreen.storyboard */,
 				DD2F8E09218B19FA00F46D27 /* Info.plist */,
 			);
@@ -122,9 +119,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DD4E85A82191931D0037340E /* Main 下午3.41.18 下午3.41.18.storyboard in Resources */,
 				DD2F8E08218B19FA00F46D27 /* LaunchScreen.storyboard in Resources */,
-				DD2F8E05218B19FA00F46D27 /* Assets.xcassets in Resources */,
+				DD221C622191979A0010BBE8 /* Main123.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
