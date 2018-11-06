@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		DD221C622191979A0010BBE8 /* Main123.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DD221C612191979A0010BBE8 /* Main123.storyboard */; };
+		DD221C64219198A30010BBE8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DD221C63219198A30010BBE8 /* Assets.xcassets */; };
 		DD2F8E08218B19FA00F46D27 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DD2F8E06218B19FA00F46D27 /* LaunchScreen.storyboard */; };
 		DD4E85A2219188270037340E /* AppDelegate 下午3.41.20 下午3.41.20 下午3.41.20 下午3.41.20 下午3.41.20.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD4E85A1219188270037340E /* AppDelegate 下午3.41.20 下午3.41.20 下午3.41.20 下午3.41.20 下午3.41.20.swift */; };
 		DD4E85A4219189940037340E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD4E85A3219189940037340E /* ViewController.swift */; };
@@ -15,6 +16,7 @@
 
 /* Begin PBXFileReference section */
 		DD221C612191979A0010BBE8 /* Main123.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main123.storyboard; path = ../../../Desktop/recovered/Main123.storyboard; sourceTree = "<group>"; };
+		DD221C63219198A30010BBE8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DD2F8DFA218B19F800F46D27 /* ScrollViewPhotos.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ScrollViewPhotos.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DD2F8E07218B19FA00F46D27 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DD2F8E09218B19FA00F46D27 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 				DD221C612191979A0010BBE8 /* Main123.storyboard */,
 				DD2F8E06218B19FA00F46D27 /* LaunchScreen.storyboard */,
 				DD2F8E09218B19FA00F46D27 /* Info.plist */,
+				DD221C63219198A30010BBE8 /* Assets.xcassets */,
 			);
 			path = ScrollViewPhotos;
 			sourceTree = "<group>";
@@ -120,6 +123,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DD2F8E08218B19FA00F46D27 /* LaunchScreen.storyboard in Resources */,
+				DD221C64219198A30010BBE8 /* Assets.xcassets in Resources */,
 				DD221C622191979A0010BBE8 /* Main123.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
